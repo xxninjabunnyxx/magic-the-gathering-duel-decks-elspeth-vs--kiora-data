@@ -1,0 +1,113 @@
+---
+object: card
+id: aa103dfb-20a0-4a7b-a34b-99339f0364a7
+oracle_id: b989279c-665d-4f15-afc1-adf3872a4851
+multiverse_ids:
+- 394360
+tcgplayer_id: 96205
+cardmarket_id: 272975
+name: Dictate of Heliod
+lang: en
+released_at: '2015-02-27'
+uri: https://api.scryfall.com/cards/aa103dfb-20a0-4a7b-a34b-99339f0364a7
+scryfall_uri: https://scryfall.com/card/ddo/8/dictate-of-heliod?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/a/a/aa103dfb-20a0-4a7b-a34b-99339f0364a7.jpg?1562840697
+  normal: https://cards.scryfall.io/normal/front/a/a/aa103dfb-20a0-4a7b-a34b-99339f0364a7.jpg?1562840697
+  large: https://cards.scryfall.io/large/front/a/a/aa103dfb-20a0-4a7b-a34b-99339f0364a7.jpg?1562840697
+  png: https://cards.scryfall.io/png/front/a/a/aa103dfb-20a0-4a7b-a34b-99339f0364a7.png?1562840697
+  art_crop: https://cards.scryfall.io/art_crop/front/a/a/aa103dfb-20a0-4a7b-a34b-99339f0364a7.jpg?1562840697
+  border_crop: https://cards.scryfall.io/border_crop/front/a/a/aa103dfb-20a0-4a7b-a34b-99339f0364a7.jpg?1562840697
+mana_cost: "{3}{W}{W}"
+cmc: 5.0
+type_line: Enchantment
+oracle_text: |-
+  Flash
+  Creatures you control get +2/+2.
+colors:
+- W
+color_identity:
+- W
+keywords:
+- Flash
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 6b350326-34f3-43c6-8df5-2b1d9a61ceff
+set: ddo
+set_name: 'Duel Decks: Elspeth vs. Kiora'
+set_type: duel_deck
+set_uri: https://api.scryfall.com/sets/6b350326-34f3-43c6-8df5-2b1d9a61ceff
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Addo&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ddo?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/aa103dfb-20a0-4a7b-a34b-99339f0364a7/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab989279c-665d-4f15-afc1-adf3872a4851&unique=prints
+collector_number: '8'
+digital: false
+rarity: rare
+flavor_text: |-
+  "In our war Heliod gave mortals some favor, yet other times he withheld aid. Are we still no more than game pieces to him?"
+  —Polyxene the Doubter
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Terese Nielsen
+artist_ids:
+- eb55171c-2342-45f4-a503-2d5a75baf752
+illustration_id: 98ef0d66-b6f1-4ee7-b79c-2cdef97f3588
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 3737
+penny_rank: 12658
+prices:
+  usd: '0.40'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.30'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394360
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Dictate+of+Heliod&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Dictate+of+Heliod&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Dictate+of+Heliod
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/96205?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Dictate+of+Heliod&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Dictate+of+Heliod&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

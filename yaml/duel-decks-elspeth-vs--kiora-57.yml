@@ -1,0 +1,110 @@
+---
+object: card
+id: 6167aa4f-666d-4908-b2e5-a30a131d2727
+oracle_id: c715e525-fc3a-4cab-94a0-04e0a22a5013
+multiverse_ids:
+- 394414
+tcgplayer_id: 96169
+cardmarket_id: 273018
+name: Urban Evolution
+lang: en
+released_at: '2015-02-27'
+uri: https://api.scryfall.com/cards/6167aa4f-666d-4908-b2e5-a30a131d2727
+scryfall_uri: https://scryfall.com/card/ddo/57/urban-evolution?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/6/1/6167aa4f-666d-4908-b2e5-a30a131d2727.jpg?1562840233
+  normal: https://cards.scryfall.io/normal/front/6/1/6167aa4f-666d-4908-b2e5-a30a131d2727.jpg?1562840233
+  large: https://cards.scryfall.io/large/front/6/1/6167aa4f-666d-4908-b2e5-a30a131d2727.jpg?1562840233
+  png: https://cards.scryfall.io/png/front/6/1/6167aa4f-666d-4908-b2e5-a30a131d2727.png?1562840233
+  art_crop: https://cards.scryfall.io/art_crop/front/6/1/6167aa4f-666d-4908-b2e5-a30a131d2727.jpg?1562840233
+  border_crop: https://cards.scryfall.io/border_crop/front/6/1/6167aa4f-666d-4908-b2e5-a30a131d2727.jpg?1562840233
+mana_cost: "{3}{G}{U}"
+cmc: 5.0
+type_line: Sorcery
+oracle_text: Draw three cards. You may play an additional land this turn.
+colors:
+- G
+- U
+color_identity:
+- G
+- U
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 6b350326-34f3-43c6-8df5-2b1d9a61ceff
+set: ddo
+set_name: 'Duel Decks: Elspeth vs. Kiora'
+set_type: duel_deck
+set_uri: https://api.scryfall.com/sets/6b350326-34f3-43c6-8df5-2b1d9a61ceff
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Addo&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ddo?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/6167aa4f-666d-4908-b2e5-a30a131d2727/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ac715e525-fc3a-4cab-94a0-04e0a22a5013&unique=prints
+collector_number: '57'
+digital: false
+rarity: uncommon
+flavor_text: As the Simic released more of their krasis experiments, they required
+  new habitats, always at the expense of the locals.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Eytan Zana
+artist_ids:
+- 0d8d6726-4051-445a-8374-a919aad98f38
+illustration_id: 95151720-7aa5-4775-8da8-e59e3a69a4e2
+border_color: black
+frame: '2015'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 1381
+penny_rank: 3523
+prices:
+  usd: '0.14'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.11'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394414
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Urban+Evolution&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Urban+Evolution&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Urban+Evolution
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/96169?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Urban+Evolution&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Urban+Evolution&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

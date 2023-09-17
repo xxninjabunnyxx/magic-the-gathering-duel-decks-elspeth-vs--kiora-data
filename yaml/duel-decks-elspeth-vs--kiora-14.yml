@@ -1,0 +1,110 @@
+---
+object: card
+id: 1ae589f5-a513-4d3c-b3fa-66eead66faf3
+oracle_id: 26112ba7-2859-4af3-93c3-e62c31177216
+multiverse_ids:
+- 394374
+tcgplayer_id: 96179
+cardmarket_id: 272330
+name: Icatian Javelineers
+lang: en
+released_at: '2015-02-27'
+uri: https://api.scryfall.com/cards/1ae589f5-a513-4d3c-b3fa-66eead66faf3
+scryfall_uri: https://scryfall.com/card/ddo/14/icatian-javelineers?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/1/a/1ae589f5-a513-4d3c-b3fa-66eead66faf3.jpg?1562839815
+  normal: https://cards.scryfall.io/normal/front/1/a/1ae589f5-a513-4d3c-b3fa-66eead66faf3.jpg?1562839815
+  large: https://cards.scryfall.io/large/front/1/a/1ae589f5-a513-4d3c-b3fa-66eead66faf3.jpg?1562839815
+  png: https://cards.scryfall.io/png/front/1/a/1ae589f5-a513-4d3c-b3fa-66eead66faf3.png?1562839815
+  art_crop: https://cards.scryfall.io/art_crop/front/1/a/1ae589f5-a513-4d3c-b3fa-66eead66faf3.jpg?1562839815
+  border_crop: https://cards.scryfall.io/border_crop/front/1/a/1ae589f5-a513-4d3c-b3fa-66eead66faf3.jpg?1562839815
+mana_cost: "{W}"
+cmc: 1.0
+type_line: Creature — Human Soldier
+oracle_text: |-
+  Icatian Javelineers enters the battlefield with a javelin counter on it.
+  {T}, Remove a javelin counter from Icatian Javelineers: It deals 1 damage to any target.
+power: '1'
+toughness: '1'
+colors:
+- W
+color_identity:
+- W
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 6b350326-34f3-43c6-8df5-2b1d9a61ceff
+set: ddo
+set_name: 'Duel Decks: Elspeth vs. Kiora'
+set_type: duel_deck
+set_uri: https://api.scryfall.com/sets/6b350326-34f3-43c6-8df5-2b1d9a61ceff
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Addo&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ddo?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/1ae589f5-a513-4d3c-b3fa-66eead66faf3/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A26112ba7-2859-4af3-93c3-e62c31177216&unique=prints
+collector_number: '14'
+digital: false
+rarity: common
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Michael Phillippi
+artist_ids:
+- 3bda7dbe-1d9f-47c6-95ce-d283859ffab1
+illustration_id: 83f11476-bda6-4643-8dd0-49fdfac3d8c0
+border_color: black
+frame: '2015'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 20038
+penny_rank: 5940
+prices:
+  usd: '0.02'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.20'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394374
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Icatian+Javelineers&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Icatian+Javelineers&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Icatian+Javelineers
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/96179?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Icatian+Javelineers&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Icatian+Javelineers&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

@@ -1,0 +1,129 @@
+---
+object: card
+id: 96f1d11a-084d-4de7-9ed4-33158113520c
+oracle_id: 05e6b243-48a6-4a42-bc5f-413441de9c33
+multiverse_ids:
+- 394361
+tcgplayer_id: 96065
+cardmarket_id: 272328
+name: Elspeth, Sun's Champion
+lang: en
+released_at: '2015-02-27'
+uri: https://api.scryfall.com/cards/96f1d11a-084d-4de7-9ed4-33158113520c
+scryfall_uri: https://scryfall.com/card/ddo/1/elspeth-suns-champion?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/9/6/96f1d11a-084d-4de7-9ed4-33158113520c.jpg?1562840252
+  normal: https://cards.scryfall.io/normal/front/9/6/96f1d11a-084d-4de7-9ed4-33158113520c.jpg?1562840252
+  large: https://cards.scryfall.io/large/front/9/6/96f1d11a-084d-4de7-9ed4-33158113520c.jpg?1562840252
+  png: https://cards.scryfall.io/png/front/9/6/96f1d11a-084d-4de7-9ed4-33158113520c.png?1562840252
+  art_crop: https://cards.scryfall.io/art_crop/front/9/6/96f1d11a-084d-4de7-9ed4-33158113520c.jpg?1562840252
+  border_crop: https://cards.scryfall.io/border_crop/front/9/6/96f1d11a-084d-4de7-9ed4-33158113520c.jpg?1562840252
+mana_cost: "{4}{W}{W}"
+cmc: 6.0
+type_line: Legendary Planeswalker — Elspeth
+oracle_text: |-
+  +1: Create three 1/1 white Soldier creature tokens.
+  −3: Destroy all creatures with power 4 or greater.
+  −7: You get an emblem with "Creatures you control get +2/+2 and have flying."
+loyalty: '4'
+colors:
+- W
+color_identity:
+- W
+keywords: []
+all_parts:
+- object: related_card
+  id: 96f1d11a-084d-4de7-9ed4-33158113520c
+  component: combo_piece
+  name: Elspeth, Sun's Champion
+  type_line: Legendary Planeswalker — Elspeth
+  uri: https://api.scryfall.com/cards/96f1d11a-084d-4de7-9ed4-33158113520c
+- object: related_card
+  id: dffbc23b-23d3-4cc5-9ea2-fa3aab785ffe
+  component: combo_piece
+  name: Elspeth, Sun's Champion Emblem
+  type_line: Emblem — Elspeth
+  uri: https://api.scryfall.com/cards/dffbc23b-23d3-4cc5-9ea2-fa3aab785ffe
+- object: related_card
+  id: 44b4dbfa-2d32-4232-9518-b85df3df708b
+  component: token
+  name: Soldier
+  type_line: Token Creature — Soldier
+  uri: https://api.scryfall.com/cards/44b4dbfa-2d32-4232-9518-b85df3df708b
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 6b350326-34f3-43c6-8df5-2b1d9a61ceff
+set: ddo
+set_name: 'Duel Decks: Elspeth vs. Kiora'
+set_type: duel_deck
+set_uri: https://api.scryfall.com/sets/6b350326-34f3-43c6-8df5-2b1d9a61ceff
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Addo&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ddo?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/96f1d11a-084d-4de7-9ed4-33158113520c/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A05e6b243-48a6-4a42-bc5f-413441de9c33&unique=prints
+collector_number: '1'
+digital: false
+rarity: mythic
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Tyler Jacobson
+artist_ids:
+- 522af130-8db4-4b4b-950c-6e2b246339cf
+illustration_id: 113376fb-f77c-4f6a-9c84-190e7557942a
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 838
+prices:
+  usd: 
+  usd_foil: '3.85'
+  usd_etched: 
+  eur: 
+  eur_foil: '2.50'
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394361
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Elspeth%2C+Sun%27s+Champion&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Elspeth%2C+Sun%27s+Champion&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Elspeth%2C+Sun%27s+Champion
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/96065?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Elspeth%2C+Sun%27s+Champion&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Elspeth%2C+Sun%27s+Champion&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

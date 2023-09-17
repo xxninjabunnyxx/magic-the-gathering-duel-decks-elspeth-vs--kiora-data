@@ -1,0 +1,16 @@
+---
+object: set
+id: 6b350326-34f3-43c6-8df5-2b1d9a61ceff
+code: ddo
+tcgplayer_id: 1511
+name: 'Duel Decks: Elspeth vs. Kiora'
+uri: https://api.scryfall.com/sets/6b350326-34f3-43c6-8df5-2b1d9a61ceff
+scryfall_uri: https://scryfall.com/sets/ddo
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Addo&unique=prints
+released_at: '2015-02-27'
+set_type: duel_deck
+card_count: 67
+digital: false
+nonfoil_only: false
+foil_only: false
+icon_svg_uri: https://svgs.scryfall.io/sets/ddo.svg?1694404800

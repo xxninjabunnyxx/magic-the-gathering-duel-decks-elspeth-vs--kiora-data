@@ -1,0 +1,111 @@
+---
+object: card
+id: dd65f598-c8f5-4e53-a011-9742c66a1698
+oracle_id: 8dec6fcf-1254-4b1b-ba23-7a3e492a7241
+multiverse_ids:
+- 394405
+tcgplayer_id: 96207
+cardmarket_id: 272995
+name: Secluded Steppe
+lang: en
+released_at: '2015-02-27'
+uri: https://api.scryfall.com/cards/dd65f598-c8f5-4e53-a011-9742c66a1698
+scryfall_uri: https://scryfall.com/card/ddo/29/secluded-steppe?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/d/d/dd65f598-c8f5-4e53-a011-9742c66a1698.jpg?1562840715
+  normal: https://cards.scryfall.io/normal/front/d/d/dd65f598-c8f5-4e53-a011-9742c66a1698.jpg?1562840715
+  large: https://cards.scryfall.io/large/front/d/d/dd65f598-c8f5-4e53-a011-9742c66a1698.jpg?1562840715
+  png: https://cards.scryfall.io/png/front/d/d/dd65f598-c8f5-4e53-a011-9742c66a1698.png?1562840715
+  art_crop: https://cards.scryfall.io/art_crop/front/d/d/dd65f598-c8f5-4e53-a011-9742c66a1698.jpg?1562840715
+  border_crop: https://cards.scryfall.io/border_crop/front/d/d/dd65f598-c8f5-4e53-a011-9742c66a1698.jpg?1562840715
+mana_cost: ''
+cmc: 0.0
+type_line: Land
+oracle_text: |-
+  Secluded Steppe enters the battlefield tapped.
+  {T}: Add {W}.
+  Cycling {W} ({W}, Discard this card: Draw a card.)
+colors: []
+color_identity:
+- W
+keywords:
+- Cycling
+produced_mana:
+- W
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 6b350326-34f3-43c6-8df5-2b1d9a61ceff
+set: ddo
+set_name: 'Duel Decks: Elspeth vs. Kiora'
+set_type: duel_deck
+set_uri: https://api.scryfall.com/sets/6b350326-34f3-43c6-8df5-2b1d9a61ceff
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Addo&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ddo?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/dd65f598-c8f5-4e53-a011-9742c66a1698/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A8dec6fcf-1254-4b1b-ba23-7a3e492a7241&unique=prints
+collector_number: '29'
+digital: false
+rarity: common
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Heather Hudson
+artist_ids:
+- 4441fe52-9e41-40c1-9b74-8510426279ab
+illustration_id: cee4e93f-a71a-4d2d-8468-1b820ba6ccbf
+border_color: black
+frame: '2015'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 760
+penny_rank: 204
+prices:
+  usd: '0.11'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.06'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394405
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Secluded+Steppe&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Secluded+Steppe&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Secluded+Steppe
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/96207?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Secluded+Steppe&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Secluded+Steppe&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
